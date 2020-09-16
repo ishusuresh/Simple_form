@@ -10,7 +10,7 @@ Node.js has to be installed in your environment
     $ cd internform
     $ npm install
    
-## Running the solution
+## Running the project
 
     $ npm start
 
