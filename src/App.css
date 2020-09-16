@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(to right, #d16ba5, #ba72af, #a378b3, #8e7db1, #7d7faa, #7789b3, #7193b9, #6d9cbe, #64b3d4, #58cce5, #53e4ee, #5ffbf1);
+}
+
+.container-body{
+  max-width: 380px;
+	margin: 15px ;
+	padding: 10px;
+  border-radius: 7px;
+  background-color: white;
+  border:2px solid white;
+  
+}
+
+.title{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.buttonstyle{
+  background-image: linear-gradient(to left, #d16ba5, #ba72af, #a378b3, #8e7db1, #7d7faa, #7789b3, #7193b9, #6d9cbe, #64b3d4, #58cce5, #53e4ee, #5ffbf1);
+  width: 140px;
+
+  
+}
+
+.fullpage{
+  background-image:linear-gradient(to right, #d16ba5, #ba72af, #a378b3, #8e7db1, #7d7faa, #7789b3, #7193b9, #6d9cbe, #64b3d4, #58cce5, #53e4ee, #5ffbf1);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
