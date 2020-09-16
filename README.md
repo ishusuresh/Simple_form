@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Node.js has to be installed in your environment
+Reactjs has to be installed in the environment
 
 ## Install
 
